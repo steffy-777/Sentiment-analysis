@@ -1,0 +1,2 @@
+# Sentiment-analysis
+we develop a Twitter Sentiment Analysis Web App in R using Shiny. In our project, we focus on using Twitter, the most popular microblogging platform, for the task of sentiment analysis. We show how to automatically collect a data for sentiment analysis and opinion mining purposes. We perform linguistic analysis of the collected corpus and explain discovered phenomena. Using the corpus, we build a sentiment classifier, that is able to determine positive, negative and neutral sentiments for a document.
